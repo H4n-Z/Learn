@@ -2,6 +2,6 @@ class IU
 {
     public static void main(String[]args)
     {
-        FileSystem.out.println("UI");
+        System.out.println("IU");
     }
 }
