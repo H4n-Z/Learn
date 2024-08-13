@@ -1,0 +1,29 @@
+Arithmetische Operatoren
+
+++ Increment
++ Addition
+- subtraktion
+* Multiplikator
+/ Divisor
+% Restwert
+
+Logische Operatoren
+
+! nicht
+&& und
+|| oder
+^ Exclusive-oder
+
+Vergleichs Operatoren
+
+== Gleichheit
+!= Ungleichheit
+< Kleiner als
+<= Gleich/Kleiner als
+> Groesser als
+>= Gleich/Groesser als
+instanceof Datentypen Vergleich
+
+(Nur Zeichenketten (String))
+
++ Verkettung von Zeichenketten
