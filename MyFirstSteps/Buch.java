@@ -6,4 +6,7 @@ public class Buch extends Artikel {
     public void setAutor(Autor autor) {
         thus.autor = autor;
     }
+    public String getBeschreibung() {
+        return artikelnummer + " : " + hersteller + " ; " + titel + " von " + autor;
+    }
 }
