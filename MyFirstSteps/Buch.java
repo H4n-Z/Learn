@@ -9,4 +9,8 @@ public class Buch extends Artikel {
     public String getBeschreibung() {
         return artikelnummer + " : " + hersteller + " ; " + titel + " von " + autor;
     }
+    public String getBeschreibung() {
+        String beschreibung = super.getBeschreibung();
+        return beschreibung + " von " + autor;
+    }
 }
