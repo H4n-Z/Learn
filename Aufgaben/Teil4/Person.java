@@ -5,11 +5,11 @@ public class Person {
     private String name;
 
     public void setName (String n){
-        name = n;
+        this.name = name;
     }
 
     public void setVorName (String vn){
-        vorname = vn;
+        this.vorname = vorname;
     }
 
     public String getName (){
